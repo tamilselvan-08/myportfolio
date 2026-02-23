@@ -1,4 +1,4 @@
-```md
+
 # 🚀 Tamil Selvan – Developer Portfolio
 
 A modern, dark-themed developer portfolio built using React and deployed on Vercel.
